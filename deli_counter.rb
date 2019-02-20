@@ -6,11 +6,12 @@ def take_a_number(katz_deli,name)
   puts "Welcome, " + name + ". You are number " + (katz_deli.length).to_s  + " in line."
 end
 def take_a_number2(katz_deli)
+  
  people << 1
  
- katz_deli << katz_de.length
+ katz_deli << people.length
  
- Puts "Welcome your number is" + 
+ Puts "Welcome your number is" + people.length + "."
  
 end
 def line(katz_deli)
